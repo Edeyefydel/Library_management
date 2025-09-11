@@ -24,8 +24,8 @@ It includes a simple REST API endpoint to verify the setup.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/springboot-maven-setup.git
-cd springboot-maven-setup
+git clone https://github.com/Edeyefydel/Library_management.git
+cd library_Management
 ```
 
 ### 2. Build & Run the app
