@@ -36,7 +36,7 @@ mvn spring-boot:run
 ### 3. Test the endpoint
 Open your browser or Postman and visit:
 ```
-http://localhost:8080/hello
+http://localhost:8000/hello
 ```
 
 Expected Response:
